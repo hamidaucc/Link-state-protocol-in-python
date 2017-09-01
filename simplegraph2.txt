@@ -1,0 +1,257 @@
+Node
+id: 1
+Node
+id: 2
+Node
+id: 3
+Node
+id: 4
+Node
+id: 5
+Node
+id: 6
+Node
+id: 7
+Node
+id: 8
+Node
+id: 9
+Node
+id: 10
+Node
+id: 11
+Node
+id: 12
+Node
+id: 13
+Node
+id: 14
+Node
+id: 15
+Node
+id: 16
+Node
+id: 17
+Node
+id: 18
+Node
+id: 19
+Node
+id: 20
+Node
+id: 21
+Node
+id: 22
+Node
+id: 23
+Node
+id: 24
+Node
+id: 25
+Node
+id: 26
+Node
+id: 27
+Node
+id: 28
+Edge
+from: 1
+to: 2
+length: 2
+oneway: false
+Edge
+from: 1
+to: 4
+length: 8
+oneway: false
+Edge
+from: 2
+to: 5
+length: 7
+oneway: false
+Edge
+from: 2
+to: 6
+length: 5
+oneway: false
+Edge
+from: 3
+to: 6
+length: 4
+oneway: false
+Edge
+from: 3
+to: 10
+length: 6
+oneway: false
+Edge
+from: 3
+to: 11
+length: 2
+oneway: false
+Edge
+from: 4
+to: 7
+length: 5 
+oneway: false
+Edge
+from: 5
+to: 8
+length: 3 
+oneway: false
+Edge
+from: 5 
+to: 9
+length: 1
+oneway: false
+Edge
+from: 6 
+to: 8
+length: 3 
+oneway: false
+Edge
+from: 7
+to: 12
+length: 2
+oneway: false
+Edge
+from: 8
+to: 9
+length: 5 
+oneway: false
+Edge
+from: 9 
+to: 15
+length: 4 
+oneway: false
+Edge
+from: 10
+to: 14
+length: 1 
+oneway: false
+Edge
+from: 11
+to: 14
+length: 4
+oneway: false
+Edge
+from: 11
+to: 16
+length: 3 
+oneway: false
+Edge
+from: 12 
+to: 15
+length: 6 
+oneway: false
+Edge
+from: 13 
+to: 14
+length: 7 
+oneway: false
+Edge
+from: 13 
+to: 15
+length: 6 
+oneway: false
+Edge
+from: 14 
+to: 21
+length: 5 
+oneway: false
+Edge
+from: 15 
+to: 17
+length: 2 
+oneway: false
+Edge
+from: 15 
+to: 18
+length: 5 
+oneway: false
+Edge
+from: 15  
+to: 20
+length: 3 
+oneway: false
+Edge
+from: 16 
+to: 19
+length: 4 
+oneway: false
+Edge
+from: 17 
+to: 22
+length: 6 
+oneway: false
+Edge
+from: 18 
+to: 20
+length: 4 
+oneway: false
+Edge
+from: 18 
+to: 21
+length: 8 
+oneway: false
+Edge
+from: 19 
+to: 23
+length: 6 
+oneway: false
+Edge
+from: 20 
+to: 24
+length: 1 
+oneway: false
+Edge
+from: 21 
+to: 25
+length: 8 
+oneway: false
+Edge
+from: 22 
+to: 24
+length: 5 
+oneway: false
+Edge
+from: 22 
+to: 26
+length: 7 
+oneway: false
+Edge
+from: 23 
+to: 28
+length: 5 
+oneway: false
+Edge
+from: 24 
+to: 26
+length: 6 
+oneway: false
+Edge
+from: 24 
+to: 27
+length: 10 
+oneway: false
+Edge
+from: 25 
+to: 27
+length: 5 
+oneway: false
+Edge
+from: 25 
+to: 28
+length: 4 
+oneway: false
+Edge
+from: 26 
+to: 27
+length: 3 
+oneway: false
+Edge
+from: 27 
+to: 28
+length: 3 
+oneway: false
+
